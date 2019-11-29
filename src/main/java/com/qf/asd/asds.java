@@ -6,5 +6,7 @@ public class asds {
         System.out.println("asdfgh");
         System.out.println("asdfgh");
 
+        System.out.println("asdfgh");
+        System.out.println("asdfgh");
     }
 }
